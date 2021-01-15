@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "release": "release-it",
-    "postinstall" : "cd node_modules/@rainbow-me/animated-charts && rm -rf node_modules && yarn install"
+    "postinstall" : "yarn install"
   },
   "author": "Michał Osadnik",
   "files": [
