@@ -5,7 +5,6 @@
   "main": "src/index.js",
   "scripts": {
     "release": "release-it",
-    "postinstall" : "yarn install"
   },
   "author": "Michał Osadnik",
   "files": [
@@ -19,7 +18,7 @@
   "license": "MIT",
   "dependencies": {
     "react-native-gesture-handler": "^1.7.0",
-    "react-native-reanimated": "^2.0.0-alpha.5",
+    "react-native-reanimated": "^2.0.0-alpha.6",
     "react-native-svg": "^12.1.0",
     "react-native-haptic-feedback": "^1.10.0"
   },
